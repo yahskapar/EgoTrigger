@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="https://arxiv.org/abs/2508.01915">Pre-print</a> | <a href="https://github.com/yahskapar/EgoTrigger">Project Website</a>
+<a href="https://arxiv.org/abs/2508.01915">Pre-print</a> | <a href="https://egotrigger.github.io/">Project Website</a>
 </p>
 
 ![rPPG-Toolbox Logo](./figures/EgoTrigger_Teaser_Figure_V1_solid_bg.png)
