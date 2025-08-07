@@ -33,5 +33,10 @@ To be released.
 If you find our [paper](https://arxiv.org/abs/2508.01915) or this toolbox useful for your research, please cite our work.
 
 ```
-Check back here soon for a BibTeX citation!
+@article{paruchuri2025egotrigger,
+  title={EgoTrigger: Toward Audio-Driven Image Capture for Human Memory Enhancement in All-Day Energy-Efficient Smart Glasses},
+  author={Paruchuri, Akshay and Hersek, Sinan and Aggarwal, Lavisha and Yang, Qiao and Liu, Xin and Kulshrestha, Achin and Colaco, Andrea and Fuchs, Henry and Chatterjee, Ishan},
+  journal={arXiv preprint arXiv:2508.01915},
+  year={2025}
+}
 ```
