@@ -20,7 +20,7 @@ All-day smart glasses are likely to emerge as platforms capable of continuous co
 ## 📝 Project Status
 
 - [x] Release HME-QA annotations (`HME-QA_annotations_v0.json`)from pilot dataset corresponding to the ISMAR 2025 TVCG Journal Paper.
-- [] Release EgoTrigger model training and evaluation pipeline with publicly available dependencies.
+- [ ] Release EgoTrigger model training and evaluation pipeline with publicly available dependencies.
 
 Note: The model training ande valuation pipeline release may take longer than I expected due to various release constraints and other work - if you cannot wait for this release, the paper itself is plenty to reproduce EgoTrigger. Feel free to reach out, either via a GitHub issue or email, in case you run into any troubles with reproducing model training and/or evaluation as per the paper.
 
