@@ -1,0 +1,2292 @@
+[
+    {
+        "video_uid": "1d3ef460-0afc-4d50-9701-48204c907b43",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put the snacks?",
+                "answer": "You put the snacks in the fridge.",
+                "start_time_sec": 16.0,
+                "end_time_sec": 19.0
+            },
+            {
+                "question": "Where did I put the cups?",
+                "answer": "You put the cups in the sink.",
+                "start_time_sec": 26.0,
+                "end_time_sec": 29.0
+            },
+            {
+                "question": "Where did I leave my phone after using it?",
+                "answer": "You left your phone on the table.",
+                "start_time_sec": 269.0,
+                "end_time_sec": 272.0
+            },
+            {
+                "question": "Where did I put the gloves after using them?",
+                "answer": "You put the gloves on the kitchen counter.",
+                "start_time_sec": 491.0,
+                "end_time_sec": 494.0
+            },
+            {
+                "question": "Where did I put the spoon after tasting the food?",
+                "answer": "You put the spoon down in the sink.",
+                "start_time_sec": 494.0,
+                "end_time_sec": 497.0
+            },
+            {
+                "question": "Where did I put the bowl after cleaning it?",
+                "answer": "You put the bowl down in the sink.",
+                "start_time_sec": 514.0,
+                "end_time_sec": 517.0
+            },
+            {
+                "question": "Where did I put the wooden ladle after cleaning it?",
+                "answer": "You put the wooden ladle down in the sink.",
+                "start_time_sec": 536.0,
+                "end_time_sec": 539.0
+            },
+            {
+                "question": "Where did I put the knife after cleaning it?",
+                "answer": "You put the knife down in the sink.",
+                "start_time_sec": 615.0,
+                "end_time_sec": 618.0
+            },
+            {
+                "question": "Where did I put the scrubber?",
+                "answer": "You put the scrubber down on the counter.",
+                "start_time_sec": 657.0,
+                "end_time_sec": 659.0
+            },
+            {
+                "question": "Where did I put the chopping board after rinsing it?",
+                "answer": "You put the chopping board down on the counter.",
+                "start_time_sec": 679.0,
+                "end_time_sec": 682.0
+            }
+        ]
+    },
+    {
+        "video_uid": "c569794f-e88a-414d-b34c-a06d7f7f800a",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I put the clothes in the washing machine?",
+                "answer": "Yes, you loaded clothes into the washing machine.",
+                "start_time_sec": 8.0,
+                "end_time_sec": 25.0
+            },
+            {
+                "question": "Did I remember to close the washing machine door?",
+                "answer": "Yes, you closed the washing machine door.",
+                "start_time_sec": 30.0,
+                "end_time_sec": 33.0
+            },
+            {
+                "question": "Did I add detergent to the washing machine?",
+                "answer": "Yes, you opened the detergent drawer, opened the detergent box, and poured detergent into the drawer.",
+                "start_time_sec": 33.0,
+                "end_time_sec": 39.0
+            },
+            {
+                "question": "Did I close the detergent drawer?",
+                "answer": "Yes, you closed the detergent drawer.",
+                "start_time_sec": 44.0,
+                "end_time_sec": 46.0
+            },
+            {
+                "question": "Did I put the detergent box back in the bag?",
+                "answer": "Yes, you put the detergent box back in the bag.",
+                "start_time_sec": 45.0,
+                "end_time_sec": 47.0
+            },
+            {
+                "question": "Did I set the washing machine?",
+                "answer": "Yes, you adjusted the settings on the washing machine multiple times.",
+                "start_time_sec": 4.0,
+                "end_time_sec": 60.0
+            },
+            {
+                "question": "Did I set up the clothes drying rack?",
+                "answer": "Yes, you unfolded the clothes drying rack.",
+                "start_time_sec": 122.0,
+                "end_time_sec": 124.0
+            },
+            {
+                "question": "Did I hang any clothes to dry?",
+                "answer": "Yes, you hung clothes on the drying rack.",
+                "start_time_sec": 173.0,
+                "end_time_sec": 432.0
+            }
+        ]
+    },
+    {
+        "video_uid": "1aa9115a-ed78-43aa-a084-3fa62ec69e14",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I remember to put on gloves when gardening?",
+                "answer": "Yes, you put on a pair of gloves.",
+                "start_time_sec": 2.0,
+                "end_time_sec": 6.0
+            },
+            {
+                "question": "How was I supposed to pull the unwanted flowers out?",
+                "answer": "You were supposed to pull the unwanted flowers out by the base.",
+                "start_time_sec": 9.0,
+                "end_time_sec": 13.0
+            },
+            {
+                "question": "Where was I supposed to put the unwanted flowers?",
+                "answer": "You were supposed to put the unwanted flowers in a black bucket.",
+                "start_time_sec": 10.0,
+                "end_time_sec": 50.0
+            },
+            {
+                "question": "Who did I pet while I was gardening?",
+                "answer": "You petted your dog while you were gardening.",
+                "start_time_sec": 81.0,
+                "end_time_sec": 85.0
+            },
+            {
+                "question": "Where did I empty the black bucket of unwanted flowers?",
+                "answer": "You emptied the unwanted flowers into a green trash bin.",
+                "start_time_sec": 320.0,
+                "end_time_sec": 333.0
+            },
+            {
+                "question": "What was I using to dig into the soil and turn it?",
+                "answer": "You used what appears to be a short handle rake.",
+                "start_time_sec": 575.0,
+                "end_time_sec": 645.0
+            },
+            {
+                "question": "What was I supposed to do before I planted a new plant?",
+                "answer": "You are supposed to scoop out space in the soil to plant the seedling.",
+                "start_time_sec": 795.0,
+                "end_time_sec": 810.0
+            }
+        ]
+    },
+    {
+        "video_uid": "ce3ef2da-c918-42c8-9d22-533f776366bd",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put my phone after using it?",
+                "answer": "You put your phone in your pocket.",
+                "start_time_sec": 1.0,
+                "end_time_sec": 4.0
+            },
+            {
+                "question": "Where did I hang the shirt?",
+                "answer": "You hung the shirt in the wardrobe.",
+                "start_time_sec": 11.0,
+                "end_time_sec": 13.0
+            },
+            {
+                "question": "Where did I finally put the large towel?",
+                "answer": "You put the towel in the wardrobe.",
+                "start_time_sec": 47.0,
+                "end_time_sec": 50.0
+            },
+            {
+                "question": "Where did I put the small towel?",
+                "answer": "You put the small towel in the wardrobe.",
+                "start_time_sec": 61.0,
+                "end_time_sec": 64.0
+            },
+            {
+                "question": "Where did I put the mask?",
+                "answer": "You put the mask in the drawer.",
+                "start_time_sec": 87.0,
+                "end_time_sec": 91.0
+            },
+            {
+                "question": "Did I close the mirror door wardrobe?",
+                "answer": "Yes, you closed the mirror door wardrobe.",
+                "start_time_sec": 304.0,
+                "end_time_sec": 306.0
+            },
+            {
+                "question": "Did I load clothes from the basket into the washing machine?",
+                "answer": "Yes, you loaded the clothes from the basket into the washing machine.",
+                "start_time_sec": 478.0,
+                "end_time_sec": 515.0
+            },
+            {
+                "question": "Did I put the masks into the washing machine?",
+                "answer": "Yes, you put the masks into the washing machine.",
+                "start_time_sec": 498.0,
+                "end_time_sec": 501.0
+            },
+            {
+                "question": "Did I wash my hands?",
+                "answer": "Yes, you washed your hands.",
+                "start_time_sec": 521.0,
+                "end_time_sec": 529.0
+            }
+        ]
+    },
+    {
+        "video_uid": "bd1d22e0-2898-424f-8ec8-d47cab2e9fcb",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put the fork after stirring the food?",
+                "answer": "I put the fork on the plate.",
+                "start_time_sec": 7.0,
+                "end_time_sec": 9.0
+            },
+            {
+                "question": "Where did I put the cooking stick after stirring the food?",
+                "answer": "I left the cooking stick on the pan.",
+                "start_time_sec": 66.0,
+                "end_time_sec": 69.0
+            },
+            {
+                "question": "Where did I put the greens after picking them from the bowl?",
+                "answer": "I added the greens to the food.",
+                "start_time_sec": 245.0,
+                "end_time_sec": 250.0
+            },
+            {
+                "question": "Where did I put the bowl after adding the greens to the food?",
+                "answer": "I returned the bowl to another counter.",
+                "start_time_sec": 257.0,
+                "end_time_sec": 260.0
+            },
+            {
+                "question": "What carbohydrate did I add to the food toward the end?",
+                "answer": "Pasta.",
+                "start_time_sec": 395.0,
+                "end_time_sec": 410.0
+            }
+        ]
+    },
+    {
+        "video_uid": "8301a3fc-aac5-466d-bb02-d0ac7a81ccc6",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put the cap?",
+                "answer": "You placed the cap on the table.",
+                "start_time_sec": 2.0,
+                "end_time_sec": 3.0
+            },
+            {
+                "question": "Did I clean my phone's screen?",
+                "answer": "Yes, you cleaned your phone's screen on the table.",
+                "start_time_sec": 7.0,
+                "end_time_sec": 15.0
+            },
+            {
+                "question": "Did I pet my cat?",
+                "answer": "Yes, you petted your cat.",
+                "start_time_sec": 19.0,
+                "end_time_sec": 21.0
+            },
+            {
+                "question": "Did I wash my hands in the kitchen?",
+                "answer": "Yes, you washed your hands at the kitchen sink.",
+                "start_time_sec": 35.0,
+                "end_time_sec": 39.0
+            },
+            {
+                "question": "What did I put in the bowl?",
+                "answer": "You placed noodles in the bowl.",
+                "start_time_sec": 57.0,
+                "end_time_sec": 61.0
+            },
+            {
+                "question": "Where did I put the empty noodle packet?",
+                "answer": "You put the empty packet on the table.",
+                "start_time_sec": 61.0,
+                "end_time_sec": 63.0
+            },
+            {
+                "question": "Did I put the bowl of noodles in the microwave?",
+                "answer": "Yes, you put the bowl of noodles in the microwave.",
+                "start_time_sec": 145.0,
+                "end_time_sec": 149.0
+            },
+            {
+                "question": "Did I put up decorations in the room?",
+                "answer": "Yes, you put up a string of photos on the wall.",
+                "start_time_sec": 241.0,
+                "end_time_sec": 281.0
+            }
+        ]
+    },
+    {
+        "video_uid": "4ab8fc08-2ae6-4b27-8c72-e9700e0161bb",
+        "memory_qa_pairs": [
+            {
+                "question": "What was I doing with the clothes from the suitcase?",
+                "answer": "You were folding them while sitting on the floor.",
+                "start_time_sec": 10.0,
+                "end_time_sec": 79.0
+            },
+            {
+                "question": "Did I pull up my sleeves?",
+                "answer": "Yes, you pulled up your sleeves.",
+                "start_time_sec": 81.0,
+                "end_time_sec": 83.0
+            },
+            {
+                "question": "Did I fold clothes while kneeling on the mat?",
+                "answer": "Yes, you folded clothes while kneeling on the mat.",
+                "start_time_sec": 98.0,
+                "end_time_sec": 110.0
+            }
+        ]
+    },
+    {
+        "video_uid": "0dedbbb0-d1a4-4231-a980-2b43acc08cb2",
+        "memory_qa_pairs": [
+            {
+                "question": "What did I do with the moisture meter after I was finished taking measurements?",
+                "answer": "You wiped it off with a paper towel.",
+                "start_time_sec": 62.0,
+                "end_time_sec": 72.0
+            },
+            {
+                "question": "Did I water one of my plants in a bathtub?",
+                "answer": "Yes, you watered one of your plants in the bathtub.",
+                "start_time_sec": 717.0,
+                "end_time_sec": 795.0
+            },
+            {
+                "question": "Where did I put the plant with long, variegated leaves?",
+                "answer": "You placed the plant with long, variegated leaves on the shelf.",
+                "start_time_sec": 609.0,
+                "end_time_sec": 613.0
+            },
+            {
+                "question": "Did I refill the water filter jug?",
+                "answer": "Yes, you refilled the water filter jug from the sink tap.",
+                "start_time_sec": 475.0,
+                "end_time_sec": 484.0
+            },
+            {
+                "question": "Did I refill my metal watering can?",
+                "answer": "Yes, you you refilled your metal watering can using your water filter jug.",
+                "start_time_sec": 652.0,
+                "end_time_sec": 660.0
+            },
+            {
+                "question": "Did I wash my hands?",
+                "answer": "Yes, you washed your hands in the sink.",
+                "start_time_sec": 486.0,
+                "end_time_sec": 488.0
+            },
+            {
+                "question": "Did I clean the sink?",
+                "answer": "Yes, you cleaned the sink.",
+                "start_time_sec": 488.0,
+                "end_time_sec": 498.0
+            }
+        ]
+    },
+    {
+        "video_uid": "1bfe5ac2-cbf8-4364-8a30-60d97dd395df",
+        "memory_qa_pairs": [
+            {
+                "question": "Was I wearing gloves while I was cleaning the floor?",
+                "answer": "Yes, you were wearing gloves while you were cleaning the floor.",
+                "start_time_sec": 14.0,
+                "end_time_sec": 26.0
+            },
+            {
+                "question": "Where did I place my phone?",
+                "answer": "You placed the phone on the round wooden table.",
+                "start_time_sec": 50.0,
+                "end_time_sec": 55.0
+            },
+            {
+                "question": "Did I clean under and around the gray couch?",
+                "answer": "Yes, you  cleaned under and around the gray couch.",
+                "start_time_sec": 169.0,
+                "end_time_sec": 188.0
+            },
+            {
+                "question": "Did I clean under and around the router?",
+                "answer": "Yes, you cleaned under and around the router.",
+                "start_time_sec": 374.0,
+                "end_time_sec": 384.0
+            },
+            {
+                "question": "Did I clean under and around the trash bin?",
+                "answer": "Yes, you cleaned under and around the trash bin.",
+                "start_time_sec": 524.0,
+                "end_time_sec": 528.0
+            }
+        ]
+    },
+    {
+        "video_uid": "b298804b-875e-4298-8825-032bbed782a6",
+        "memory_qa_pairs": [
+            {
+                "question": "What did I do before I started using the brush cutter?",
+                "answer": "You attached the strap clip to the brush cutter.",
+                "start_time_sec": 0.0,
+                "end_time_sec": 3.0
+            },
+            {
+                "question": "After I finished cutting the brush, what did I do with the brush cutter?",
+                "answer": "You detached the strap clip, checked the cutter's head and then put the it down on the ground.",
+                "start_time_sec": 479.0,
+                "end_time_sec": 514.0
+            }
+        ]
+    },
+    {
+        "video_uid": "16f5b832-1c4b-45f9-97bb-240cea374732",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I get the utility knife from initially?",
+                "answer": "You took the utility knife from the bucket.",
+                "start_time_sec": 7.0,
+                "end_time_sec": 9.0
+            },
+            {
+                "question": "Did I cut the first spinach plant?",
+                "answer": "Yes, you cut the first spinach plant with the utility knife.",
+                "start_time_sec": 11.0,
+                "end_time_sec": 18.0
+            },
+            {
+                "question": "Where did I put the harvested spinach leaves?",
+                "answer": "You put the harvested spinach leaves in the bucket.",
+                "start_time_sec": 46.0,
+                "end_time_sec": 50.0
+            },
+            {
+                "question": "Did I move the bucket to another location at any point?",
+                "answer": "Yes, you lifted and placed the bucket in another location.",
+                "start_time_sec": 75.0,
+                "end_time_sec": 77.0
+            },
+            {
+                "question": "Did I throw away any spinach?",
+                "answer": "Yes, you threw some spinach and dry leaves in the garden.",
+                "start_time_sec": 287.0,
+                "end_time_sec": 312.0
+            }
+        ]
+    },
+    {
+        "video_uid": "d02bd0da-e84e-40b8-81d7-47106f1911ae",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I place the first bolt I removed from the bike?",
+                "answer": "You placed the first bolt on the workbench.",
+                "start_time_sec": 40.0,
+                "end_time_sec": 42.0
+            },
+            {
+                "question": "Where did I leave the screwdriver after removing the first bolt?",
+                "answer": "You left the screwdriver on the workbench.",
+                "start_time_sec": 42.0,
+                "end_time_sec": 45.0
+            },
+            {
+                "question": "Where did I place the bike after fixing it?",
+                "answer": "By the shelves, near some other bikes.",
+                "start_time_sec": 417.0,
+                "end_time_sec": 427.0
+            },
+            {
+                "question": "Where did I get the metal crowbar from?",
+                "answer": "Underneath the workbench.",
+                "start_time_sec": 437.0,
+                "end_time_sec": 445.0
+            },
+            {
+                "question": "What was I trying to fix after the bicycle?",
+                "answer": "A scooter - you were trying to fix one of its wheels in particular.",
+                "start_time_sec": 600.0,
+                "end_time_sec": 660.0
+            }
+        ]
+    },
+    {
+        "video_uid": "f54fd12b-d439-4f3c-9d0c-293336dd33b1",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I go outside onto the balcony?",
+                "answer": "Yes, you walked outside onto the balcony.",
+                "start_time_sec": 2.0,
+                "end_time_sec": 5.0
+            },
+            {
+                "question": "Did I zip up my jacket?",
+                "answer": "Yes, you zipped up your jacket.",
+                "start_time_sec": 13.0,
+                "end_time_sec": 19.0
+            },
+            {
+                "question": "Did I pick up the dustpan?",
+                "answer": "Yes, you picked up the green dustpan.",
+                "start_time_sec": 18.0,
+                "end_time_sec": 20.0
+            },
+            {
+                "question": "Did I pick up a brush?",
+                "answer": "Yes, you picked up a brush.",
+                "start_time_sec": 19.0,
+                "end_time_sec": 25.0
+            },
+            {
+                "question": "Did I sweep the balcony?",
+                "answer": "Yes, you swept the balcony with a brush.",
+                "start_time_sec": 26.0,
+                "end_time_sec": 91.0
+            },
+            {
+                "question": "Did I sweep the dirt into the dustpan?",
+                "answer": "Yes, you swept the dirt into the dustpan.",
+                "start_time_sec": 97.0,
+                "end_time_sec": 111.0
+            }
+        ]
+    },
+    {
+        "video_uid": "5d2043c0-6982-4259-88bd-b4d0fc5d789a",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I place the clothes basket while folding clothes?",
+                "answer": "You placed the clothes basket on the chair.",
+                "start_time_sec": 1.0,
+                "end_time_sec": 4.0
+            },
+            {
+                "question": "Where did I leave the folded clothes?",
+                "answer": "You placed the folded clothes on the table.",
+                "start_time_sec": 4.0,
+                "end_time_sec": 83.0
+            },
+            {
+                "question": "Where did I leave the clothes basket after I finished folding clothes?",
+                "answer": "You placed the clothes basket on the floor, next to the table and chair.",
+                "start_time_sec": 482.0,
+                "end_time_sec": 487.0
+            }
+        ]
+    },
+    {
+        "video_uid": "3c6ac251-4298-4421-be93-9262bcdbc320",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put my phone?",
+                "answer": "You put the phone down on the table.",
+                "start_time_sec": 1.0,
+                "end_time_sec": 3.0
+            },
+            {
+                "question": "What did I unload my laundry into?",
+                "answer": "You unloaded your laundry into a blue bag.",
+                "start_time_sec": 17.0,
+                "end_time_sec": 54.0
+            },
+            {
+                "question": "Where did I put the blue bag and drying rack?",
+                "answer": "In the dining room, by the radiator.",
+                "start_time_sec": 82.0,
+                "end_time_sec": 90.0
+            },
+            {
+                "question": "Where did I hang the clothes to dry?",
+                "answer": "You hung the clothes on a clothes drying rack.",
+                "start_time_sec": 116.0,
+                "end_time_sec": 390.0
+            }
+        ]
+    },
+    {
+        "video_uid": "bdf00ef0-4616-40ab-ab2e-4437cb93f39e",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I turn on the light?",
+                "answer": "Yes, you turned on the light.",
+                "start_time_sec": 4.0,
+                "end_time_sec": 6.0
+            },
+            {
+                "question": "Where did I put the dish?",
+                "answer": "You put the dish on the table.",
+                "start_time_sec": 9.0,
+                "end_time_sec": 11.0
+            },
+            {
+                "question": "Where did I put the pillow initially?",
+                "answer": "You put the pillow inside the shelf.",
+                "start_time_sec": 40.0,
+                "end_time_sec": 42.0
+            },
+            {
+                "question": "Where did I put the duvet initially?",
+                "answer": "You put the duvet on the bed frame.",
+                "start_time_sec": 22.0,
+                "end_time_sec": 24.0
+            },
+            {
+                "question": "Did I open the curtains before closing them?",
+                "answer": "Yes, you opened the curtain.",
+                "start_time_sec": 58.0,
+                "end_time_sec": 60.0
+            },
+            {
+                "question": "Did I slide the window?",
+                "answer": "Yes, you slid the window.",
+                "start_time_sec": 60.0,
+                "end_time_sec": 62.0
+            },
+            {
+                "question": "Did I close the curtains after opening them?",
+                "answer": "Yes, you closed the curtains.",
+                "start_time_sec": 70.0,
+                "end_time_sec": 72.0
+            },
+            {
+                "question": "Where did I put the piece of cloth in the closet?",
+                "answer": "You put the piece of cloth in the drawer in the closet.",
+                "start_time_sec": 90.0,
+                "end_time_sec": 92.0
+            },
+            {
+                "question": "Did I make my bed?",
+                "answer": "Yes, you made your bed.",
+                "start_time_sec": 120.0,
+                "end_time_sec": 480.0
+            }
+        ]
+    },
+    {
+        "video_uid": "34240230-b681-4f0e-b3d8-b486aeb1104d",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put the bucket lid?",
+                "answer": "You put the bucket lid on the table.",
+                "start_time_sec": 3.0,
+                "end_time_sec": 4.0
+            },
+            {
+                "question": "Where did I put the cooking pot?",
+                "answer": "You put the cooking pot on the table.",
+                "start_time_sec": 5.0,
+                "end_time_sec": 7.0
+            },
+            {
+                "question": "What did I scoop into the cooking pot?",
+                "answer": "You scooped powder of some kind into the cooking pot with your hand.",
+                "start_time_sec": 13.0,
+                "end_time_sec": 15.0
+            },
+            {
+                "question": "Where did I put the bucket with powder?",
+                "answer": "You put the bucket with powder on the table.",
+                "start_time_sec": 27.0,
+                "end_time_sec": 28.0
+            },
+            {
+                "question": "What did I mix the powder with in the cooking pot?",
+                "answer": "You mixed the powder with oil in the cooking pot.",
+                "start_time_sec": 27.0,
+                "end_time_sec": 29.0
+            },
+            {
+                "question": "Where did I put the cooking pot after mixing?",
+                "answer": "You put the cooking pot on a single electric cooker.",
+                "start_time_sec": 109.0,
+                "end_time_sec": 111.0
+            },
+            {
+                "question": "Did I turn on the single electric cooker?",
+                "answer": "Yes, you turned the single electric cooker on.",
+                "start_time_sec": 168.0,
+                "end_time_sec": 171.0
+            },
+            {
+                "question": "Did I turn off the single electric cooker?",
+                "answer": "Yes, you turned the single electric cooker off.",
+                "start_time_sec": 217.0,
+                "end_time_sec": 219.0
+            },
+            {
+                "question": "What did I start doing with the cooking pot after heating it?",
+                "answer": "You used what was inside it to start painting some kind of structure.",
+                "start_time_sec": 220.0,
+                "end_time_sec": 260.0
+            }
+        ]
+    },
+    {
+        "video_uid": "a774ee38-7f06-4733-8b76-1fb07f95dcf4",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I put the clothes in the washing machine?",
+                "answer": "Yes, you loaded multiple clothes into the washing machine.",
+                "start_time_sec": 11.0,
+                "end_time_sec": 61.0
+            },
+            {
+                "question": "Where do I keep my laundry detergent?",
+                "answer": "In a cabinet next to the washing machine.",
+                "start_time_sec": 70.0,
+                "end_time_sec": 86.0
+            },
+            {
+                "question": "What brand of laundry detergent did I add to the washing machine?",
+                "answer": "You added a Bold 3-in-1 pod to the washing machine.",
+                "start_time_sec": 70.0,
+                "end_time_sec": 86.0
+            },
+            {
+                "question": "Did I start the washing machine?",
+                "answer": "Yes, you turned on the washing machine.",
+                "start_time_sec": 91.0,
+                "end_time_sec": 93.0
+            },
+            {
+                "question": "What did I retrieve from the washing machine when I first opened it?",
+                "answer": "A yellow ribbon.",
+                "start_time_sec": 110.0,
+                "end_time_sec": 115.0
+            },
+            {
+                "question": "Where did I put the clothes drying rack?",
+                "answer": "You set up the clothes drying rack on the floor in front of the washing machine.",
+                "start_time_sec": 119.0,
+                "end_time_sec": 126.0
+            },
+            {
+                "question": "Did I hang the clothes to dry?",
+                "answer": "Yes, you hung multiple clothes on the drying rack.",
+                "start_time_sec": 134.0,
+                "end_time_sec": 240.0
+            }
+        ]
+    },
+    {
+        "video_uid": "f0776c0c-e50c-4e2d-a3f6-5a53b323829d",
+        "memory_qa_pairs": [
+            {
+                "question": "What did I do inside the fridge?",
+                "answer": "You re-organized the fridge a bit, moving some items from a drawer to another shelf.",
+                "start_time_sec": 16.0,
+                "end_time_sec": 55.0
+            },
+            {
+                "question": "Did I close the fridge after organizing it?",
+                "answer": "Yes, you closed the fridge.",
+                "start_time_sec": 53.0,
+                "end_time_sec": 56.0
+            },
+            {
+                "question": "Where did I leave my medication?",
+                "answer": "You left your medication in the fridge drawer.",
+                "start_time_sec": 46.0,
+                "end_time_sec": 49.0
+            },
+            {
+                "question": "Did I open the curtains in the bedroom?",
+                "answer": "Yes, you opened the curtains.",
+                "start_time_sec": 109.0,
+                "end_time_sec": 112.0
+            },
+            {
+                "question": "Where did I move my hat?",
+                "answer": "You moved your hat from the lower shelf to the upper shelf.",
+                "start_time_sec": 167.0,
+                "end_time_sec": 170.0
+            },
+            {
+                "question": "Did I make the bed?",
+                "answer": "Yes, you made the bed, including spreading the duvet and bed cover, and placing the pillows.",
+                "start_time_sec": 198.0,
+                "end_time_sec": 267.0
+            },
+            {
+                "question": "Did I put the pillow in the pillowcase?",
+                "answer": "Yes, you put the pillow in the pillowcase.",
+                "start_time_sec": 272.0,
+                "end_time_sec": 320.0
+            },
+            {
+                "question": "Did I wash my hands?",
+                "answer": "Yes, you washed your hands in the kitchen sink.",
+                "start_time_sec": 440.0,
+                "end_time_sec": 453.0
+            },
+            {
+                "question": "Where did I leave my shoes?",
+                "answer": "You left your shoes by the front door.",
+                "start_time_sec": 418.0,
+                "end_time_sec": 421.0
+            },
+            {
+                "question": "Where did I leave my cup of coffee?",
+                "answer": "You left it on the table near the kitchen.",
+                "start_time_sec": 521.0,
+                "end_time_sec": 524.0
+            }
+        ]
+    },
+    {
+        "video_uid": "b1bbfee4-8499-4c50-9de1-ade61d05d481",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put my phone while ironing?",
+                "answer": "You put your phone on the ironing board.",
+                "start_time_sec": 82.0,
+                "end_time_sec": 85.0
+            },
+            {
+                "question": "Where did I put the second cloth I ironed?",
+                "answer": "You piled it on another cloth on the ironing board.",
+                "start_time_sec": 92.0,
+                "end_time_sec": 97.0
+            },
+            {
+                "question": "What did I get interrupted by while ironing my clothes?",
+                "answer": "You noticed something happening on your stove.",
+                "start_time_sec": 388.0,
+                "end_time_sec": 394.0
+            },
+            {
+                "question": "Did I put the salt back in the cabinet?",
+                "answer": "Yes, you put the salt back inside the cabinet.",
+                "start_time_sec": 433.0,
+                "end_time_sec": 435.0
+            },
+            {
+                "question": "What did I do with the dress shirt after I finished ironing it?",
+                "answer": "You hung it on one of your chairs.",
+                "start_time_sec": 790.0,
+                "end_time_sec": 795.0
+            },
+            {
+                "question": "Did I unplug the iron?",
+                "answer": "Yes, you unplugged the iron box cable from the switch.",
+                "start_time_sec": 785.0,
+                "end_time_sec": 788.0
+            },
+            {
+                "question": "Did I cover the pot of food?",
+                "answer": "Yes, you covered the pot of food.",
+                "start_time_sec": 826.0,
+                "end_time_sec": 828.0
+            }
+        ]
+    },
+    {
+        "video_uid": "fd878068-4a9a-458d-9225-fe4865907f0a",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I place the vacuum cleaner while organizing some things in a room?",
+                "answer": "You placed the vacuum cleaner on the sofa.",
+                "start_time_sec": 112.0,
+                "end_time_sec": 114.0
+            },
+            {
+                "question": "Where did I put the suitcases while I was vacuuming one of the rooms?",
+                "answer": "You put the suitcases on the floor outside the room.",
+                "start_time_sec": 118.0,
+                "end_time_sec": 120.0
+            },
+            {
+                "question": "Where did I put the headphones?",
+                "answer": "You put the headphones on a drawer.",
+                "start_time_sec": 123.0,
+                "end_time_sec": 125.0
+            },
+            {
+                "question": "Did I turn off the lights in the room with the suitcases?",
+                "answer": "Yes, you turned off the lights.",
+                "start_time_sec": 174.0,
+                "end_time_sec": 176.0
+            },
+            {
+                "question": "Did I vacuum under the bag and sandals?",
+                "answer": "Yes, you vacuumed under the bag and sandals on the floor.",
+                "start_time_sec": 203.0,
+                "end_time_sec": 212.0
+            },
+            {
+                "question": "Did I turn off the vacuum cleaner after cleaning?",
+                "answer": "Yes, you turned off the vacuum cleaner and placed it against the wall.",
+                "start_time_sec": 301.0,
+                "end_time_sec": 303.0
+            },
+            {
+                "question": "Did I turn off the lights after vacuuming?",
+                "answer": "Yes, you switched off a light.",
+                "start_time_sec": 304.175,
+                "end_time_sec": 304.8
+            },
+            {
+                "question": "What did I have to put back in the bathroom after vacuuming?",
+                "answer": "The bathroom mat and the tissue stand.",
+                "start_time_sec": 306.0,
+                "end_time_sec": 318.0
+            },
+            {
+                "question": "Did I turn off the lights after putting the mat and tissue stand down?",
+                "answer": "Yes, you switched off the lights.",
+                "start_time_sec": 318.0,
+                "end_time_sec": 321.0
+            }
+        ]
+    },
+    {
+        "video_uid": "6c0a8bc3-1a83-4f90-bb7f-6baf959b2364",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put my phone after using it?",
+                "answer": "You put the phone down on the kitchen counter.",
+                "start_time_sec": 1.0,
+                "end_time_sec": 3.0
+            },
+            {
+                "question": "Did I unload the clothes from the dryer?",
+                "answer": "Yes, you unloaded clothes from the dryer and placed them on a chair.",
+                "start_time_sec": 4.0,
+                "end_time_sec": 9.0
+            },
+            {
+                "question": "Where did I put the chair with the clothes?",
+                "answer": "You moved the chair with the clothes to another room and placed it near a clothes rack.",
+                "start_time_sec": 32.0,
+                "end_time_sec": 43.0
+            },
+            {
+                "question": "Did I hang all the clothes to dry?",
+                "answer": "Yes, you hung clothes on a clothes rack.",
+                "start_time_sec": 48.0,
+                "end_time_sec": 243.0
+            },
+            {
+                "question": "Where did I put the chair after hanging the clothes?",
+                "answer": "You put the chair under the table.",
+                "start_time_sec": 247.0,
+                "end_time_sec": 250.0
+            },
+            {
+                "question": "What did I put in the washing machine?",
+                "answer": "You put clothes from two bags into the washing machine.",
+                "start_time_sec": 261.0,
+                "end_time_sec": 334.0
+            },
+            {
+                "question": "Did I add detergent to the washing machine?",
+                "answer": "Yes, you added detergent and fabric softener to the washing machine.",
+                "start_time_sec": 371.0,
+                "end_time_sec": 393.0
+            },
+            {
+                "question": "Did I close the washing machine?",
+                "answer": "Yes, you closed the washing machine.",
+                "start_time_sec": 401.0,
+                "end_time_sec": 403.0
+            },
+            {
+                "question": "Did I wipe up the spilled fabric softener?",
+                "answer": "Yes, you wiped the floor with a tissue.",
+                "start_time_sec": 359.0,
+                "end_time_sec": 364.0
+            }
+        ]
+    },
+    {
+        "video_uid": "9fd1b645-da67-4fb1-8615-952a37bc7728",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I pick up the jigsaw machine from at the beginning?",
+                "answer": "You picked up the jigsaw machine from on top of a wood board.",
+                "start_time_sec": 1.0,
+                "end_time_sec": 3.0
+            },
+            {
+                "question": "Did I cut through the wood board?",
+                "answer": "Yes, you cut through the wood board using the jigsaw machine multiple times throughout the video.",
+                "start_time_sec": 4.0,
+                "end_time_sec": 685.0
+            },
+            {
+                "question": "Did I put the cut piece of wood on the floor?",
+                "answer": "Yes, you put the cut piece of wood on the floor behind the small chair.",
+                "start_time_sec": 166.0,
+                "end_time_sec": 169.0
+            },
+            {
+                "question": "Did I wipe dust off the wood board?",
+                "answer": "Yes, you wiped dust off the wood board multiple times.",
+                "start_time_sec": 169.0,
+                "end_time_sec": 172.0
+            },
+            {
+                "question": "Did I draw a line on the wood?",
+                "answer": "Yes, you drew a line on the wood with a pencil.",
+                "start_time_sec": 372.0,
+                "end_time_sec": 381.0
+            },
+            {
+                "question": "Where did I put the pencil after using it?",
+                "answer": "You put the pencil back in your pocket.",
+                "start_time_sec": 380.0,
+                "end_time_sec": 382.0
+            },
+            {
+                "question": "Did I clean the wood with my hand?",
+                "answer": "Yes, you cleaned the wood with your hand.",
+                "start_time_sec": 364.0,
+                "end_time_sec": 367.0
+            }
+        ]
+    },
+    {
+        "video_uid": "b8a05c14-76a8-4112-8a25-f16d260e347a",
+        "memory_qa_pairs": [
+            {
+                "question": "What happened with the spray hose while I was watering the garden?",
+                "answer": "It got tangled and you had to adjust it.",
+                "start_time_sec": 48.0,
+                "end_time_sec": 60.0
+            },
+            {
+                "question": "What did I remove while I was watering the garden?",
+                "answer": "You uprooted a weed and threw it away.",
+                "start_time_sec": 233.0,
+                "end_time_sec": 236.0
+            },
+            {
+                "question": "How many weeds did I remove while I was watering the garden?",
+                "answer": "2.",
+                "start_time_sec": 233.0,
+                "end_time_sec": 396.0
+            }
+        ]
+    },
+    {
+        "video_uid": "36275bce-bd4d-44e8-b728-8587a73f8d79",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put the jembe after digging?",
+                "answer": "You placed the jembe on the ground.",
+                "start_time_sec": 88.0,
+                "end_time_sec": 91.0
+            },
+            {
+                "question": "Did I remove the weeds from the ground?",
+                "answer": "Yes, you uprooted weeds from the ground.",
+                "start_time_sec": 90.0,
+                "end_time_sec": 93.0
+            },
+            {
+                "question": "What did I do with the weeds?",
+                "answer": "You threw the weeds on the ground.",
+                "start_time_sec": 92.0,
+                "end_time_sec": 94.0
+            },
+            {
+                "question": "Did I pick up a wire?",
+                "answer": "Yes, you picked a wire from the ground.",
+                "start_time_sec": 195.0,
+                "end_time_sec": 198.0
+            },
+            {
+                "question": "Where did I put the wire?",
+                "answer": "You hung the wire on the fence.",
+                "start_time_sec": 206.0,
+                "end_time_sec": 210.0
+            },
+            {
+                "question": "Did I harvest any kale?",
+                "answer": "Yes, you uprooted a kale and put it in a container.",
+                "start_time_sec": 629.0,
+                "end_time_sec": 643.0
+            },
+            {
+                "question": "Did I harvest any cabbage?",
+                "answer": "Yes, you uprooted a cabbage and put it in the container.",
+                "start_time_sec": 675.0,
+                "end_time_sec": 728.0
+            },
+            {
+                "question": "Where did I put the pruning shears?",
+                "answer": "You put the pruning shears in your pocket.",
+                "start_time_sec": 734.0,
+                "end_time_sec": 738.0
+            },
+            {
+                "question": "Where did I leave the container?",
+                "answer": "You put down the container in the garden.",
+                "start_time_sec": 796.0,
+                "end_time_sec": 799.0
+            }
+        ]
+    },
+    {
+        "video_uid": "387efde9-a42d-4b64-8b18-ad19e4202d98",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I put on safety glasses before using the grass cutter?",
+                "answer": "Yes, you put on safety glasses at the beginning.",
+                "start_time_sec": 0.0,
+                "end_time_sec": 1.0
+            },
+            {
+                "question": "Did I remember to hook myself to the grass cutter?",
+                "answer": "Yes, you hooked yourself to the grass cutter using a hook belt.",
+                "start_time_sec": 4.0,
+                "end_time_sec": 7.5
+            },
+            {
+                "question": "Did I use the grass cutter?",
+                "answer": "Yes, you used the grass cutter.",
+                "start_time_sec": 11.0,
+                "end_time_sec": 14.0
+            },
+            {
+                "question": "Did I turn off the grass cutter at the end?",
+                "answer": "Yes, you turned off the grass cutter.",
+                "start_time_sec": 182.0,
+                "end_time_sec": 184.0
+            },
+            {
+                "question": "Did I unhook myself from the grass cutter?",
+                "answer": "Yes, you unhooked yourself from the grass cutter using your right hand.",
+                "start_time_sec": 188.0,
+                "end_time_sec": 190.0
+            },
+            {
+                "question": "Did I check the gear head of the grass cutter?",
+                "answer": "Yes, you checked and tried to open the gear head of the grass cutter.",
+                "start_time_sec": 190.0,
+                "end_time_sec": 194.0
+            }
+        ]
+    },
+    {
+        "video_uid": "a3f45e46-6c63-402c-a6b9-1c3ad529166d",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I plug in the vacuum cleaner?",
+                "answer": "Yes, you plugged the vacuum cleaner into a wall socket.",
+                "start_time_sec": 15.0,
+                "end_time_sec": 17.0
+            },
+            {
+                "question": "Did I close a door while vacuuming?",
+                "answer": "Yes, you closed a door while vacuuming.",
+                "start_time_sec": 27.0,
+                "end_time_sec": 29.0
+            },
+            {
+                "question": "Did I move the shoes while vacuuming?",
+                "answer": "Yes, you moved the shoes and placed them on the mat.",
+                "start_time_sec": 158.0,
+                "end_time_sec": 160.0
+            },
+            {
+                "question": "What happened with the cat while you were vacuuming?",
+                "answer": "You opened the door to try and let it in, but it was too scared.",
+                "start_time_sec": 241.0,
+                "end_time_sec": 247.0
+            }
+        ]
+    },
+    {
+        "video_uid": "f642360d-5cef-4c5f-b401-a65107946ed1",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I pick up my phone?",
+                "answer": "Yes, you picked up your phone and pressed it.",
+                "start_time_sec": 1.0,
+                "end_time_sec": 4.0
+            },
+            {
+                "question": "Where did I put my phone after using it?",
+                "answer": "You put your phone down on the sofa.",
+                "start_time_sec": 5.0,
+                "end_time_sec": 7.0
+            },
+            {
+                "question": "Did I turn the cooker on?",
+                "answer": "Yes, you turned the cooker on.",
+                "start_time_sec": 60.0,
+                "end_time_sec": 64.0
+            },
+            {
+                "question": "Did I put the coffee powder in the teakettle?",
+                "answer": "Yes, you put the coffee powder in the teakettle.",
+                "start_time_sec": 86.0,
+                "end_time_sec": 88.0
+            },
+            {
+                "question": "Did I stir the coffee?",
+                "answer": "Yes, you stirred the coffee.",
+                "start_time_sec": 114.0,
+                "end_time_sec": 116.0
+            },
+            {
+                "question": "Did I put the coffee powder away?",
+                "answer": "Yes, you put the coffee powder in the cabinet and pushed it away.",
+                "start_time_sec": 135.0,
+                "end_time_sec": 138.0
+            },
+            {
+                "question": "Did I turn off the cooker?",
+                "answer": "Yes, you turned off the cooker.",
+                "start_time_sec": 144.0,
+                "end_time_sec": 147.0
+            },
+            {
+                "question": "Did I pour milk in the cup?",
+                "answer": "Yes, you poured milk in the cup.",
+                "start_time_sec": 195.0,
+                "end_time_sec": 201.0
+            },
+            {
+                "question": "Did I put the milk back in the fridge?",
+                "answer": "Yes, you put the milk back in the fridge.",
+                "start_time_sec": 213.0,
+                "end_time_sec": 215.0
+            },
+            {
+                "question": "Did I put the forks in the cabinet?",
+                "answer": "Yes, you put the forks in the cabinet.",
+                "start_time_sec": 270.0,
+                "end_time_sec": 273.0
+            },
+            {
+                "question": "Did I arrange the spoons and knives in the cabinet?",
+                "answer": "Yes, you arranged the spoons and knives in the cabinet.",
+                "start_time_sec": 332.0,
+                "end_time_sec": 336.0
+            },
+            {
+                "question": "Did I put the lid on the pan inside the cabinet?",
+                "answer": "Yes, you put the lid on the pan inside the cabinet.",
+                "start_time_sec": 349.0,
+                "end_time_sec": 352.0
+            },
+            {
+                "question": "Did I close the cabinet?",
+                "answer": "Yes, you closed the cabinet.",
+                "start_time_sec": 354.0,
+                "end_time_sec": 356.0
+            },
+            {
+                "question": "Did I rinse the glass?",
+                "answer": "Yes, you rinsed the glass and put it on the table.",
+                "start_time_sec": 369.0,
+                "end_time_sec": 375.0
+            },
+            {
+                "question": "Did I wipe the counter?",
+                "answer": "Yes, you wiped the counter using a towel.",
+                "start_time_sec": 390.0,
+                "end_time_sec": 395.0
+            },
+            {
+                "question": "Did I put the bowl in the cabinet?",
+                "answer": "Yes, you put the bowl in the cabinet.",
+                "start_time_sec": 431.0,
+                "end_time_sec": 433.0
+            },
+            {
+                "question": "Did I pour coffee in the cup?",
+                "answer": "Yes, you poured some coffee in the cup.",
+                "start_time_sec": 470.0,
+                "end_time_sec": 473.0
+            },
+            {
+                "question": "Where did I put the cup?",
+                "answer": "You put the cup on the table.",
+                "start_time_sec": 484.0,
+                "end_time_sec": 487.0
+            },
+            {
+                "question": "Where did I put the laptop?",
+                "answer": "You put the laptop on the table.",
+                "start_time_sec": 496.0,
+                "end_time_sec": 499.0
+            },
+            {
+                "question": "Did I plug in the laptop charger?",
+                "answer": "Yes, you plugged one side of the charger into the socket and the other side into the laptop.",
+                "start_time_sec": 531.0,
+                "end_time_sec": 540.0
+            }
+        ]
+    },
+    {
+        "video_uid": "5d511be2-5a9a-4776-ad5e-c0e3a00dfb07",
+        "memory_qa_pairs": [
+            {
+                "question": "Where do I normally put the electric jigsaw when I finish cutting wood?",
+                "answer": "You put the electric jigsaw on the table extension.",
+                "start_time_sec": 105.0,
+                "end_time_sec": 108.0
+            },
+            {
+                "question": "Where have I been putting pieces of wood after cutting them off?",
+                "answer": "On the floor, behind a small chair.",
+                "start_time_sec": 108.0,
+                "end_time_sec": 112.0
+            },
+            {
+                "question": "Where did I get the G-clamp?",
+                "answer": "You got the G-clamp from a storage shelf behind the table saw.",
+                "start_time_sec": 285.0,
+                "end_time_sec": 290.0
+            },
+            {
+                "question": "What did I do with the two pieces of wood?",
+                "answer": "You clamped the two pieces of wood together.",
+                "start_time_sec": 273.0,
+                "end_time_sec": 315.0
+            }
+        ]
+    },
+    {
+        "video_uid": "aa545209-5e41-4534-8473-67ff18cf9985",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I remember to wipe excess debris off from the piece of wood?",
+                "answer": "Yes, you remembered to wipe excess debris off from the piece of wood.",
+                "start_time_sec": 2.0,
+                "end_time_sec": 6.0
+            },
+            {
+                "question": "Where did I put the jigsaw after I finished cutting the piece of wood?",
+                "answer": "I placed the jigsaw back on the table, off to the side.",
+                "start_time_sec": 338.0,
+                "end_time_sec": 340.0
+            },
+            {
+                "question": "How many cut pieces of wood did I leave on the table?",
+                "answer": "I placed the cut piece of plywood on the table.",
+                "start_time_sec": 338.0,
+                "end_time_sec": 350.0
+            }
+        ]
+    },
+    {
+        "video_uid": "0e529f0a-6432-4f2c-bbd1-e495c019f600",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put my phone?",
+                "answer": "You placed your phone on the table.",
+                "start_time_sec": 1.0,
+                "end_time_sec": 4.0
+            },
+            {
+                "question": "Where did I set the clothes I wanted to iron?",
+                "answer": "You set the clothes on the couch.",
+                "start_time_sec": 28.0,
+                "end_time_sec": 30.0
+            },
+            {
+                "question": "How many clothes did I set aside to iron?",
+                "answer": "3.",
+                "start_time_sec": 28.0,
+                "end_time_sec": 30.0
+            },
+            {
+                "question": "Where did I place my red sweater after I ironed it?",
+                "answer": "You placed your red sweater on the couch after folding it.",
+                "start_time_sec": 174.0,
+                "end_time_sec": 182.0
+            }
+        ]
+    },
+    {
+        "video_uid": "827c34de-64e7-419e-89e3-3d6de441e983",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I take a picture of the house?",
+                "answer": "Yes, you took a photo of the house.",
+                "start_time_sec": 1.0,
+                "end_time_sec": 4.0
+            },
+            {
+                "question": "Where did I put my phone after taking a picture?",
+                "answer": "You placed your phone on the table.",
+                "start_time_sec": 23.0,
+                "end_time_sec": 29.0
+            },
+            {
+                "question": "Did I answer a call?",
+                "answer": "Yes, you picked up a call.",
+                "start_time_sec": 66.0,
+                "end_time_sec": 79.0
+            },
+            {
+                "question": "What was I eating initially?",
+                "answer": "You were eating some cereal.",
+                "start_time_sec": 90.0,
+                "end_time_sec": 100.0
+            },
+            {
+                "question": "What were you eating aside from cereal?",
+                "answer": "You ate some nuts.",
+                "start_time_sec": 128.0,
+                "end_time_sec": 132.0
+            },
+            {
+                "question": "What did I pickup from the table before heading toward the television?",
+                "answer": "You picked up a remote.",
+                "start_time_sec": 148.0,
+                "end_time_sec": 151.0
+            },
+            {
+                "question": "Did I open the fridge?",
+                "answer": "Yes, you opened the fridge and took a tin from it.",
+                "start_time_sec": 183.0,
+                "end_time_sec": 189.0
+            },
+            {
+                "question": "Did I put the tin back in the fridge?",
+                "answer": "Yes, you put the tin back in the fridge.",
+                "start_time_sec": 564.0,
+                "end_time_sec": 566.0
+            },
+            {
+                "question": "Did I turn on the washing machine?",
+                "answer": "Yes, you turned on the washing machine.",
+                "start_time_sec": 718.0,
+                "end_time_sec": 745.0
+            },
+            {
+                "question": "Did I remember to switch off the light by the washing machine?",
+                "answer": "Yes, you turned the light by the washing machine off.",
+                "start_time_sec": 745.0,
+                "end_time_sec": 747.0
+            }
+        ]
+    },
+    {
+        "video_uid": "c6afac8f-86bc-4caa-9980-77d66f41abba",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I leave my empty coffee cup?",
+                "answer": "You left the empty coffee cup on the dining table.",
+                "start_time_sec": 3.0,
+                "end_time_sec": 8.0
+            },
+            {
+                "question": "Where do I normally hang my grey laundry bag?",
+                "answer": "You normally hang it in your bedroom.",
+                "start_time_sec": 15.0,
+                "end_time_sec": 20.0
+            },
+            {
+                "question": "Where do I normally keep my laundry supplies?",
+                "answer": "In a drawer, underneath where you keep your shoes.",
+                "start_time_sec": 57.0,
+                "end_time_sec": 65.0
+            },
+            {
+                "question": "What do I normally add to the washing machine to do laundry?",
+                "answer": "You normally add both laundry detergent and fabric softener.",
+                "start_time_sec": 100.0,
+                "end_time_sec": 122.0
+            },
+            {
+                "question": "Did I leave any clothes in the grey laundry bag?",
+                "answer": "Yes, you left some clothes in the grey laundry bag.",
+                "start_time_sec": 190.0,
+                "end_time_sec": 205.0
+            },
+            {
+                "question": "Did I remember to grab the bath mat and towels to put in the laundry room?",
+                "answer": "Yes, you remembered to grab the bath mat and towels to put them in the laundry room.",
+                "start_time_sec": 228.0,
+                "end_time_sec": 250.0
+            },
+            {
+                "question": "Did I remember to turn off the lights in the bathroom and the bedroom?",
+                "answer": "Yes, you remembered to turn off the lights in the bathroom and the bedroom.",
+                "start_time_sec": 245.0,
+                "end_time_sec": 250.0
+            },
+            {
+                "question": "Where did I put the bath mat?",
+                "answer": "You put the bath mat in the washing machine.",
+                "start_time_sec": 264.0,
+                "end_time_sec": 266.0
+            },
+            {
+                "question": "Did I bump my head while I was doing laundry?",
+                "answer": "Yes, you bumped your head on the wooden panel next to the washing machine while doing laundry.",
+                "start_time_sec": 266.0,
+                "end_time_sec": 268.0
+            },
+            {
+                "question": "Where did I put the towel?",
+                "answer": "You put the towel in the grey laundry bag.",
+                "start_time_sec": 268.0,
+                "end_time_sec": 274.0
+            },
+            {
+                "question": "Did I remember to turn on the washing machine?",
+                "answer": "Yes, you remembered to turn on the washing machine.",
+                "start_time_sec": 276.0,
+                "end_time_sec": 292.0
+            }
+        ]
+    },
+    {
+        "video_uid": "45a39fe0-4674-40a7-84f2-ec24d301b73b",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I cut all of the dough into thinner strips?",
+                "answer": "No, you left part of the dough as is.",
+                "start_time_sec": 10.0,
+                "end_time_sec": 28.0
+            },
+            {
+                "question": "Where did I put the dough cutter after cutting the dough?",
+                "answer": "You put the dough cutter on the table.",
+                "start_time_sec": 27.0,
+                "end_time_sec": 29.0
+            },
+            {
+                "question": "How did I roll the dough?",
+                "answer": "You rolled the dough into long thin rolls.",
+                "start_time_sec": 35.0,
+                "end_time_sec": 41.0
+            },
+            {
+                "question": "What did I do after rolling the dough into an initial thin roll?",
+                "answer": "You rolled it in some sesame seeds before putting it on the tray.",
+                "start_time_sec": 45.0,
+                "end_time_sec": 53.0
+            },
+            {
+                "question": "What did I do after all the thin rolls were on the tray?",
+                "answer": "You cut all of the rolls on the tray in half.",
+                "start_time_sec": 265.0,
+                "end_time_sec": 272.0
+            },
+            {
+                "question": "Where did I put the tray with the rolled dough?",
+                "answer": "You put the tray on the shelf.",
+                "start_time_sec": 275.0,
+                "end_time_sec": 278.0
+            },
+            {
+                "question": "Did I throw the excess seeds in a sack?",
+                "answer": "Yes, you threw some excess seeds in a sack.",
+                "start_time_sec": 285.0,
+                "end_time_sec": 287.0
+            },
+            {
+                "question": "Did I clean the table surface using a bench scraper?",
+                "answer": "Yes, you cleaned the table surface using a bench scraper.",
+                "start_time_sec": 317.0,
+                "end_time_sec": 321.0
+            },
+            {
+                "question": "What did I do with the flat, larger piece of dough?",
+                "answer": "You cut out pieces of dough with a dough cutter.",
+                "start_time_sec": 390.0,
+                "end_time_sec": 416.0
+            }
+        ]
+    },
+    {
+        "video_uid": "35c31ba5-2b1a-40da-a5cc-e098465759b8",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put the picture?",
+                "answer": "You placed the picture on the table.",
+                "start_time_sec": 1.0,
+                "end_time_sec": 3.0
+            },
+            {
+                "question": "Where did I put the small equipments after picking them up from the window?",
+                "answer": "You put the small equipments on the table.",
+                "start_time_sec": 12.0,
+                "end_time_sec": 22.0
+            },
+            {
+                "question": "Where did I put the chair?",
+                "answer": "You placed the chair by the window.",
+                "start_time_sec": 70.0,
+                "end_time_sec": 78.0
+            },
+            {
+                "question": "Did I put the window cleaner in the basin?",
+                "answer": "Yes, you put the window cleaner in the basin.",
+                "start_time_sec": 93.0,
+                "end_time_sec": 95.0
+            },
+            {
+                "question": "Did I put the window cleaning tool on the window sill?",
+                "answer": "Yes, you put the window cleaning tool on the window sill.",
+                "start_time_sec": 336.0,
+                "end_time_sec": 338.0
+            },
+            {
+                "question": "Did I put the window cleaning fluid on the window sill?",
+                "answer": "Yes, you put the window cleaning fluid on the window sill.",
+                "start_time_sec": 344.0,
+                "end_time_sec": 346.0
+            }
+        ]
+    },
+    {
+        "video_uid": "23910a31-45bb-4c41-9b74-91ba2bb8be60",
+        "memory_qa_pairs": [
+            {
+                "question": "What was I doing to safely guide the pieces of wood through the table saw?",
+                "answer": "You were using pieces of wood to push other pieces of wood.",
+                "start_time_sec": 10.0,
+                "end_time_sec": 20.0
+            },
+            {
+                "question": "Where did I put the cut wood pieces?",
+                "answer": "You placed some of the cut wood pieces on the table extension.",
+                "start_time_sec": 21.0,
+                "end_time_sec": 24.0
+            },
+            {
+                "question": "What did I forget to turn on after I first turned on the table saw?",
+                "answer": "You forgot to turn on the vacuum.",
+                "start_time_sec": 36.0,
+                "end_time_sec": 42.0
+            },
+            {
+                "question": "What did I have to clean while I was using the table saw?",
+                "answer": "You had to clean the vacuum with your hand.",
+                "start_time_sec": 190.0,
+                "end_time_sec": 220.0
+            }
+        ]
+    },
+    {
+        "video_uid": "ece0aedb-c857-4cbc-aa62-bf3c0ad69b9b",
+        "memory_qa_pairs": [
+            {
+                "question": "What did I use to tie the hose pipe?",
+                "answer": "You used a cable to tie the hose pipe.",
+                "start_time_sec": 55.0,
+                "end_time_sec": 65.0
+            },
+            {
+                "question": "Where did I place that wet stone I found?",
+                "answer": "I placed the stone under one of the hose pipes.",
+                "start_time_sec": 435.0,
+                "end_time_sec": 440.0
+            },
+            {
+                "question": "What did I do with the ribbed bar?",
+                "answer": "I dug the bar into the soil at the edge of the hose pipe.",
+                "start_time_sec": 492.0,
+                "end_time_sec": 500.0
+            }
+        ]
+    },
+    {
+        "video_uid": "1c795a0e-e718-466f-8bee-46febdc2b17a",
+        "memory_qa_pairs": [
+            {
+                "question": "What did I stir after stirring the pasta?",
+                "answer": "You stirred the pan with green peas.",
+                "start_time_sec": 7.0,
+                "end_time_sec": 13.0
+            },
+            {
+                "question": "Did I put the tin back in the cabinet?",
+                "answer": "Yes, you put the tin back in the cabinet.",
+                "start_time_sec": 96.0,
+                "end_time_sec": 99.0
+            },
+            {
+                "question": "Where did I put the wooden ladle after stirring the green peas?",
+                "answer": "You put the wooden ladle down on the pan.",
+                "start_time_sec": 37.0,
+                "end_time_sec": 39.0
+            },
+            {
+                "question": "Where did I put the wooden ladle after stirring the pasta the last time?",
+                "answer": "You put the wooden ladle in a bowl.",
+                "start_time_sec": 355.0,
+                "end_time_sec": 362.0
+            },
+            {
+                "question": "Where did I put the cooking pot after pouring the pasta into a bowl?",
+                "answer": "You put the cooking pot down in the sink.",
+                "start_time_sec": 377.0,
+                "end_time_sec": 381.0
+            },
+            {
+                "question": "Where did I put the pan after pouring the green peas into a bowl?",
+                "answer": "You put the pan down in the sink.",
+                "start_time_sec": 398.0,
+                "end_time_sec": 401.0
+            },
+            {
+                "question": "Did I turn off the tap?",
+                "answer": "Yes, you closed the tap.",
+                "start_time_sec": 420.0,
+                "end_time_sec": 423.0
+            },
+            {
+                "question": "Where did I put the wooden ladle after rinsing it?",
+                "answer": "You put the wooden ladle down in the sink.",
+                "start_time_sec": 419.0,
+                "end_time_sec": 421.0
+            }
+        ]
+    },
+    {
+        "video_uid": "60bfacbb-063f-4e3f-bc74-fe993c7a521a",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I wipe the cat with a towel?",
+                "answer": "Yes, you wiped the cat with a towel.",
+                "start_time_sec": 0.0,
+                "end_time_sec": 15.0
+            },
+            {
+                "question": "Where did I put the phone down initially?",
+                "answer": "You put the phone down on the floor.",
+                "start_time_sec": 36.0,
+                "end_time_sec": 40.0
+            },
+            {
+                "question": "Did I open the bin?",
+                "answer": "Yes, you opened the bin and put the lid down.",
+                "start_time_sec": 131.031,
+                "end_time_sec": 133.38
+            },
+            {
+                "question": "Did I pick up a broom?",
+                "answer": "Yes, you picked up a broom.",
+                "start_time_sec": 136.0,
+                "end_time_sec": 138.0
+            },
+            {
+                "question": "Did I sweep the floor?",
+                "answer": "Yes, you swept the floor.",
+                "start_time_sec": 149.0,
+                "end_time_sec": 173.0
+            },
+            {
+                "question": "Did I clean the cat's litter box?",
+                "answer": "Yes, you cleaned the cat's litter box.",
+                "start_time_sec": 240.0,
+                "end_time_sec": 430.0
+            },
+            {
+                "question": "Did I try playing with my cat?",
+                "answer": "Yes, you tried playing with your cat using a cat toy.",
+                "start_time_sec": 450.0,
+                "end_time_sec": 470.0
+            }
+        ]
+    },
+    {
+        "video_uid": "067037a6-71a9-4850-ac51-59183eeb6359",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put the laundry basket after taking the clothes out?",
+                "answer": "You put the laundry basket on the bed.",
+                "start_time_sec": 36.0,
+                "end_time_sec": 38.0
+            },
+            {
+                "question": "Did I put some clothes in a bag in the wardrobe?",
+                "answer": "Yes, you put some clothes in a bag in the wardrobe.",
+                "start_time_sec": 67.0,
+                "end_time_sec": 71.0
+            },
+            {
+                "question": "Did I close the wardrobe after putting the clothes away?",
+                "answer": "Yes, you closed the wardrobe.",
+                "start_time_sec": 70.0,
+                "end_time_sec": 73.0
+            },
+            {
+                "question": "Where did I leave the laundry basket after coming downstairs?",
+                "answer": "You put the laundry basket on the floor in the laundry room.",
+                "start_time_sec": 99.0,
+                "end_time_sec": 101.0
+            },
+            {
+                "question": "Where did I hang the key?",
+                "answer": "You hung the key on a hook.",
+                "start_time_sec": 102.0,
+                "end_time_sec": 105.0
+            },
+            {
+                "question": "Did I unload the washing machine?",
+                "answer": "Yes, you unloaded the washing machine.",
+                "start_time_sec": 109.0,
+                "end_time_sec": 120.0
+            },
+            {
+                "question": "Did I close the washing machine door?",
+                "answer": "Yes, you closed the washing machine door with your leg.",
+                "start_time_sec": 129.0,
+                "end_time_sec": 131.0
+            },
+            {
+                "question": "Where did I put the laundry basket after bringing it upstairs?",
+                "answer": "You put the laundry basket on the floor in the bathroom.",
+                "start_time_sec": 150.0,
+                "end_time_sec": 153.0
+            },
+            {
+                "question": "Did I hang the clothes on the clothes rack?",
+                "answer": "Yes, you hung the clothes on the clothes rack in the bathroom.",
+                "start_time_sec": 188.0,
+                "end_time_sec": 429.0
+            },
+            {
+                "question": "Where did I finally put the laundry basket?",
+                "answer": "You put the laundry basket on a top cabinet above the fridge.",
+                "start_time_sec": 445.0,
+                "end_time_sec": 450.0
+            }
+        ]
+    },
+    {
+        "video_uid": "f7eba194-18eb-49c4-bccf-df29755ecccd",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I unload clothes from the washing machine?",
+                "answer": "Yes, you unloaded clothes from the washing machine.",
+                "start_time_sec": 16.0,
+                "end_time_sec": 24.0
+            },
+            {
+                "question": "Did I hang clothes on the drying rack?",
+                "answer": "Yes, you hung multiple items of clothing on the white drying rack.",
+                "start_time_sec": 32.0,
+                "end_time_sec": 60.0
+            },
+            {
+                "question": "Did I put clothes in the washing machine?",
+                "answer": "Yes, you put multiple items of clothing in the washing machine.",
+                "start_time_sec": 396.0,
+                "end_time_sec": 419.0
+            },
+            {
+                "question": "Did I put detergent in the washing machine?",
+                "answer": "Yes, you added detergent to the washing machine detergent drawer.",
+                "start_time_sec": 422.0,
+                "end_time_sec": 425.0
+            },
+            {
+                "question": "Where did I put back my laundry supplies?",
+                "answer": "You put them back in a drawer near the entryway.",
+                "start_time_sec": 485.0,
+                "end_time_sec": 489.0
+            }
+        ]
+    },
+    {
+        "video_uid": "56e92c65-c82e-413b-aaf9-26a0dd5fbbe2",
+        "memory_qa_pairs": [
+            {
+                "question": "What did I unload into my yellow tote bag?",
+                "answer": "You unloaded the clothes from the washing machine into your bag.",
+                "start_time_sec": 7.0,
+                "end_time_sec": 32.0
+            },
+            {
+                "question": "Did I close the washing machine door?",
+                "answer": "Yes, you closed the washing machine door.",
+                "start_time_sec": 32.0,
+                "end_time_sec": 34.0
+            },
+            {
+                "question": "Where did I put the yellow tote bag before hanging my clothes?",
+                "answer": "You placed the bag with the clothes on the couch.",
+                "start_time_sec": 41.0,
+                "end_time_sec": 44.0
+            },
+            {
+                "question": "Where do I normally store my clothes drying rack?",
+                "answer": "By the window, near the washing machine.",
+                "start_time_sec": 50.0,
+                "end_time_sec": 55.0
+            },
+            {
+                "question": "Did I hang all the clothes from the yellow tote bag on the clothes drying rack?",
+                "answer": "Yes, you hung all of your clothes to dry.",
+                "start_time_sec": 71.0,
+                "end_time_sec": 278.0
+            },
+            {
+                "question": "Where did I place my yellow tote bag once I was done hanging my clothes?",
+                "answer": "You placed it by the washing machine.",
+                "start_time_sec": 630.0,
+                "end_time_sec": 635.0
+            }
+        ]
+    },
+    {
+        "video_uid": "4b97cf1d-4989-41d8-8b9e-f6b3d648d9d0",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put my phone?",
+                "answer": "You placed your phone on some papers on top of the piano.",
+                "start_time_sec": 2.0,
+                "end_time_sec": 4.0
+            },
+            {
+                "question": "Where did I place the coaster that was on one of the the small, short tables?",
+                "answer": "You placed it on the sofa.",
+                "start_time_sec": 122.0,
+                "end_time_sec": 126.0
+            },
+            {
+                "question": "Where did I place the power strip that was next to one of the small, short tables?",
+                "answer": "You placed it on the sofa.",
+                "start_time_sec": 126.0,
+                "end_time_sec": 129.0
+            },
+            {
+                "question": "Where do I keep my woolen blanket?",
+                "answer": "You keep your woolen blanket on the sofa.",
+                "start_time_sec": 187.0,
+                "end_time_sec": 193.0
+            },
+            {
+                "question": "Did I remember to clean around my cat's scratching post?",
+                "answer": "Yes, you cleaned a little bit around your cat's scratching post.",
+                "start_time_sec": 259.0,
+                "end_time_sec": 282.0
+            },
+            {
+                "question": "Did I remember to clean under the wooden table?",
+                "answer": "Yes, you cleaned under the wooden table.",
+                "start_time_sec": 394.0,
+                "end_time_sec": 418.0
+            },
+            {
+                "question": "Did I clean under the white guitar case?",
+                "answer": "Yes, you cleaned under the white guitar case.",
+                "start_time_sec": 425.0,
+                "end_time_sec": 440.0
+            },
+            {
+                "question": "Where do I normally leave my gray backpack?",
+                "answer": "On the floor, near the wooden table and some of your shoes.",
+                "start_time_sec": 584.0,
+                "end_time_sec": 595.0
+            },
+            {
+                "question": "Where do I keep my maroon bag?",
+                "answer": "On the floor, near the wooden table and some of your shoes.",
+                "start_time_sec": 603.0,
+                "end_time_sec": 614.0
+            }
+        ]
+    },
+    {
+        "video_uid": "575dbff3-44c8-4fda-92f7-fbf3070f8789",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put the clothes rack?",
+                "answer": "You placed the clothes rack in the hallway, near the bathroom door.",
+                "start_time_sec": 3.0,
+                "end_time_sec": 48.0
+            },
+            {
+                "question": "Did I unload the washing machine?",
+                "answer": "Yes, you unloaded the washing machine and placed the clothes into a blue bag.",
+                "start_time_sec": 57.0,
+                "end_time_sec": 64.0
+            },
+            {
+                "question": "Where did I put the blue bag with the clothes after unloading the washing machine?",
+                "answer": "You placed the blue bag with the clothes on the floor next to the clothes rack.",
+                "start_time_sec": 114.0,
+                "end_time_sec": 120.0
+            },
+            {
+                "question": "Did I hang all the clothes from the blue bag on the clothes rack?",
+                "answer": "Yes, you hung various clothes from the blue bag on the clothes rack.",
+                "start_time_sec": 129.0,
+                "end_time_sec": 512.0
+            }
+        ]
+    },
+    {
+        "video_uid": "8e23dc43-7025-4548-a2bd-0f7d85631602",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I wash the bicycle?",
+                "answer": "Yes, you washed the bicycle with a brush and water.",
+                "start_time_sec": 5.0,
+                "end_time_sec": 24.0
+            },
+            {
+                "question": "Where did I put the pedal after washing it?",
+                "answer": "You put the pedal in the bucket.",
+                "start_time_sec": 26.0,
+                "end_time_sec": 27.0
+            },
+            {
+                "question": "Did I wash the pedal?",
+                "answer": "Yes, you washed the pedal with a brush.",
+                "start_time_sec": 27.0,
+                "end_time_sec": 67.0
+            },
+            {
+                "question": "Where did I put the pedal after washing it?",
+                "answer": "You dropped the pedal on the table.",
+                "start_time_sec": 67.0,
+                "end_time_sec": 71.0
+            },
+            {
+                "question": "Did I wash another pedal?",
+                "answer": "Yes, you washed another pedal with the brush.",
+                "start_time_sec": 73.0,
+                "end_time_sec": 98.0
+            },
+            {
+                "question": "Where did I put the bucket?",
+                "answer": "You put the bucket on the metal stool.",
+                "start_time_sec": 186.0,
+                "end_time_sec": 188.0
+            },
+            {
+                "question": "Did I spray the bicycle?",
+                "answer": "Yes, you sprayed the bicycle with a spray bottle.",
+                "start_time_sec": 211.0,
+                "end_time_sec": 220.0
+            },
+            {
+                "question": "Did I wipe my hands?",
+                "answer": "Yes, you wiped your hands with a piece of cloth.",
+                "start_time_sec": 270.0,
+                "end_time_sec": 275.0
+            },
+            {
+                "question": "Did I wipe the bicycle?",
+                "answer": "Yes, you wiped the bicycle with a piece of cloth.",
+                "start_time_sec": 274.0,
+                "end_time_sec": 312.0
+            }
+        ]
+    },
+    {
+        "video_uid": "889cdfac-b57e-4fdb-8251-dd119f56f510",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put the kales after cutting them?",
+                "answer": "I put the kales into a bucket.",
+                "start_time_sec": 32.0,
+                "end_time_sec": 35.0
+            },
+            {
+                "question": "What was I using to cut kale?",
+                "answer": "A utility knife.",
+                "start_time_sec": 58.0,
+                "end_time_sec": 65.0
+            },
+            {
+                "question": "Did I put all of the cut kale into the bucket?",
+                "answer": "No, some of it was discarded.",
+                "start_time_sec": 335.0,
+                "end_time_sec": 345.0
+            }
+        ]
+    },
+    {
+        "video_uid": "119cd9ee-665e-477c-a271-80c06e78e3d4",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I turn on the wood cutter machine?",
+                "answer": "Yes, you turned on the wood cutter machine.",
+                "start_time_sec": 12.0,
+                "end_time_sec": 15.0
+            },
+            {
+                "question": "What did I do before I started using the wood cutter?",
+                "answer": "You picked up the goggles from a tabletop and put them on.",
+                "start_time_sec": 28.0,
+                "end_time_sec": 30.0
+            },
+            {
+                "question": "Did I turn off the wood cutter machine?",
+                "answer": "Yes, you turned off the wood cutter machine.",
+                "start_time_sec": 132.0,
+                "end_time_sec": 134.0
+            },
+            {
+                "question": "Where did I initially place the bucket before filling it?",
+                "answer": "You placed the bucket on the extension of the wood cutter.",
+                "start_time_sec": 138.0,
+                "end_time_sec": 142.0
+            },
+            {
+                "question": "What did I put in the bucket?",
+                "answer": "You put small pieces of wood in the bucket.",
+                "start_time_sec": 406.0,
+                "end_time_sec": 412.0
+            },
+            {
+                "question": "What did I do with one of the larger chunks of wood?",
+                "answer": "You roughly shaped it using a rasp.",
+                "start_time_sec": 710.0,
+                "end_time_sec": 720.0
+            }
+        ]
+    },
+    {
+        "video_uid": "ceea3a90-8339-4512-8ae2-0da5f1ee6bff",
+        "memory_qa_pairs": [
+            {
+                "question": "Where did I put the pot?",
+                "answer": "You put the pot in the rice cooker.",
+                "start_time_sec": 8.0,
+                "end_time_sec": 10.0
+            },
+            {
+                "question": "Did I cover the pot in the rice cooker?",
+                "answer": "Yes, you covered the pot with a lid.",
+                "start_time_sec": 10.0,
+                "end_time_sec": 12.0
+            },
+            {
+                "question": "Where did I put the glasses?",
+                "answer": "You put the glasses in the cupboard.",
+                "start_time_sec": 16.0,
+                "end_time_sec": 19.0
+            },
+            {
+                "question": "Where did I put the lids?",
+                "answer": "You put the lids on a drying rack.",
+                "start_time_sec": 27.0,
+                "end_time_sec": 30.0
+            },
+            {
+                "question": "Where did I put the bowls?",
+                "answer": "You put the bowls in a drawer.",
+                "start_time_sec": 31.0,
+                "end_time_sec": 34.0
+            },
+            {
+                "question": "Where did I put the spoons and chopsticks?",
+                "answer": "You put the spoons and chopsticks in a drying rack.",
+                "start_time_sec": 62.0,
+                "end_time_sec": 65.0
+            },
+            {
+                "question": "Where did I put the sieve?",
+                "answer": "You put the sieve in a jug on the counter.",
+                "start_time_sec": 86.0,
+                "end_time_sec": 88.0
+            },
+            {
+                "question": "Where did I put the pot with the lid?",
+                "answer": "You put the pot with the lid in the cupboard.",
+                "start_time_sec": 138.0,
+                "end_time_sec": 140.0
+            },
+            {
+                "question": "What did I put in the plastic bag?",
+                "answer": "You put some butter in a plastic bag.",
+                "start_time_sec": 163.0,
+                "end_time_sec": 165.0
+            },
+            {
+                "question": "Where did I put the plastic bag?",
+                "answer": "You put the plastic bag in the fridge.",
+                "start_time_sec": 190.0,
+                "end_time_sec": 193.0
+            },
+            {
+                "question": "Did I remember to turn off the lights?",
+                "answer": "Yes, you turned off the lights.",
+                "start_time_sec": 204.0,
+                "end_time_sec": 206.0
+            }
+        ]
+    },
+    {
+        "video_uid": "74dbf8d0-b10d-4993-831e-7618801d2d95",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I unload the washing machine?",
+                "answer": "Yes, you unloaded the washing machine.",
+                "start_time_sec": 27.0,
+                "end_time_sec": 38.0
+            },
+            {
+                "question": "Where did I put the clothes after unloading the washing machine?",
+                "answer": "You put the clothes in a blue basket.",
+                "start_time_sec": 28.0,
+                "end_time_sec": 38.0
+            },
+            {
+                "question": "Where did I place the clothes stand?",
+                "answer": "You placed the clothes stand in the dining area, near the window.",
+                "start_time_sec": 14.0,
+                "end_time_sec": 16.0
+            },
+            {
+                "question": "Where did I place the basket of clothes while I was hanging clothes?",
+                "answer": "You placed the basket of clothes on a chair.",
+                "start_time_sec": 52.0,
+                "end_time_sec": 55.0
+            },
+            {
+                "question": "Did I open the window?",
+                "answer": "Yes, you opened the window in the dining area.",
+                "start_time_sec": 245.0,
+                "end_time_sec": 253.0
+            },
+            {
+                "question": "Did I hang any clothes outside?",
+                "answer": "Yes, you hung clothes on the clothesline in the backyard.",
+                "start_time_sec": 412.0,
+                "end_time_sec": 514.0
+            },
+            {
+                "question": "Where did I leave the blue basket when I went outside?",
+                "answer": "You left the blue basket outside, on a chair next to a table.",
+                "start_time_sec": 403.0,
+                "end_time_sec": 405.0
+            },
+            {
+                "question": "Did I leave the blue basket outside?",
+                "answer": "No, you brought it inside the house with you.",
+                "start_time_sec": 520.0,
+                "end_time_sec": 527.0
+            }
+        ]
+    },
+    {
+        "video_uid": "7c06d1c2-d3b2-43b0-86ab-e0963df16dc5",
+        "memory_qa_pairs": [
+            {
+                "question": "Did I refuel the grass trimmer?",
+                "answer": "Yes, you refueled the trimmer using a bottle of fuel.",
+                "start_time_sec": 7.0,
+                "end_time_sec": 21.0
+            },
+            {
+                "question": "Where did I leave the bottle of fuel after refueling the grass trimmer?",
+                "answer": "You leaned the fuel bottle against the fence.",
+                "start_time_sec": 22.0,
+                "end_time_sec": 26.0
+            },
+            {
+                "question": "Did I remember to put on my safety glasses?",
+                "answer": "Yes, you remembered to put on your safety glasses.",
+                "start_time_sec": 28.0,
+                "end_time_sec": 35.0
+            },
+            {
+                "question": "While holding the grass trimmer, what did I do just before using it?",
+                "answer": "I attached my strap to it.",
+                "start_time_sec": 43.0,
+                "end_time_sec": 48.0
+            }
+        ]
+    }
+]
